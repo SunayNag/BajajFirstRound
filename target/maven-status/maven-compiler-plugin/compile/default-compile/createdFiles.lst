@@ -1,0 +1,10 @@
+com\example\hiring\config\RestClientConfig.class
+com\example\hiring\service\SqlSolver.class
+com\example\hiring\HiringApplication.class
+com\example\hiring\model\dto\SubmitFinalQueryRequest.class
+com\example\hiring\model\dto\GenerateWebhookResponse.class
+com\example\hiring\repo\SubmissionRecordRepository.class
+com\example\hiring\service\HiringClient.class
+com\example\hiring\model\dto\GenerateWebhookRequest.class
+com\example\hiring\model\entity\SubmissionRecord.class
+com\example\hiring\runner\StartupRunner.class
